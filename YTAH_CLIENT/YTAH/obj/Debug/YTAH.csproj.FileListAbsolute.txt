@@ -1,0 +1,30 @@
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\bin\Debug\YTAH.pdb
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.Properties.Resources.resources
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.pdb
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\bin\Debug\YTAH.exe.config
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\bin\Debug\YTAH.exe
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.exe
+C:\Users\Alex\Desktop\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.Form1.resources
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.csprojAssemblyReference.cache
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.Form1.resources
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.Properties.Resources.resources
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.csproj.GenerateResource.cache
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.csproj.CoreCompileInputs.cache
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\bin\Debug\YTAH.exe.config
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\bin\Debug\YTAH.exe
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\bin\Debug\YTAH.pdb
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.exe
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH\YTAH\obj\Debug\YTAH.pdb
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\bin\Debug\YTAH.exe.config
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\bin\Debug\YTAH.exe
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\bin\Debug\YTAH.pdb
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.csprojAssemblyReference.cache
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.Form1.resources
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.Properties.Resources.resources
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.csproj.GenerateResource.cache
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.csproj.CoreCompileInputs.cache
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.exe
+D:\Projets\[VisualStudio]\13. YTAH\YTAH\YtahForm\YTAH_CLIENT\YTAH\obj\Debug\YTAH.pdb
